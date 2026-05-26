@@ -1,0 +1,1972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260526183005TFJ24M</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260526183005PQYWYC</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SILENCE-SUCCESS: LET&apos;S FUNCTION BETTER!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>CAMPAÑA PARA REDUCIR EL RUIDO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Josefa de la Luz Martínez Moreno</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Vamos a estudiar y medir el ruido del instituto y crear una campaña para reducirlo.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779812864799</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpmumem3-wvegnn3lz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmumem3-wvegnn3lz</odePageId>
+      <odeBlockId>block-1778598698155-5krww6qn8</odeBlockId>
+      <blockName>Silence-Success: Let&apos;s function better!</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumem3-wvegnn3lz</odePageId>
+          <odeBlockId>block-1778598698155-5krww6qn8</odeBlockId>
+          <odeIdeviceId>idevice-1778598698154-1lok94p6v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/El_silencio__clave_del_éxito.png" width="1280" height="2293" alt="Infografía con distintas consecuencias del ruido y beneficios del silencio" /></p>
+<p>Imagen generada con IA (<a href="https://creativecommons.org/licenses/by/4.0/" title="">CC BY 4.0</a>)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778598698154-1lok94p6v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/El_silencio__clave_del_éxito.png\" width=\"1280\" height=\"2293\" alt=\"Infografía con distintas consecuencias del ruido y beneficios del silencio\" /></p>\n<p>Imagen generada con IA (<a href=\"https://creativecommons.org/licenses/by/4.0/\" title=\"\">CC BY 4.0</a>)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmumem5-aapw6p7ma</odePageId>
+  <odeParentPageId>page-mpmumem3-wvegnn3lz</odeParentPageId>
+  <pageName>PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmumem5-aapw6p7ma</odePageId>
+      <odeBlockId>block-1779114543096-70z1w86of</odeBlockId>
+      <blockName>JUSTIFICACIÓN</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumem5-aapw6p7ma</odePageId>
+          <odeBlockId>block-1779114543096-70z1w86of</odeBlockId>
+          <odeIdeviceId>idevice-1779114543094-v18xhegu7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Este proyecto surge ante la necesidad de disminuir el ruido en el Centro. Pretende concienciar a toda la Comunidad Educativa de las consecuencias que el ruido excesivo tiene para la salud.</p>
+<p style="text-align: justify;">La contaminación acústica es un problema social y no favorece la concentración y el aprendizaje.</p>
+<p style="text-align: justify;">La disminución del ruido es un objetivo dentro de nuestro Planes y Proyectos de Centro, así como de los objetivos de Erasmus+.</p>
+<p style="text-align: justify;">Con esta Situación de Aprendizaje queremos concienciar a la vez que aprender matemáticas.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779114543094-v18xhegu7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Este proyecto surge ante la necesidad de disminuir el ruido en el Centro. Pretende concienciar a toda la Comunidad Educativa de las consecuencias que el ruido excesivo tiene para la salud.</p>\n<p style=\"text-align: justify;\">La contaminación acústica es un problema social y no favorece la concentración y el aprendizaje.</p>\n<p style=\"text-align: justify;\">La disminución del ruido es un objetivo dentro de nuestro Planes y Proyectos de Centro, así como de los objetivos de Erasmus+.</p>\n<p style=\"text-align: justify;\">Con esta Situación de Aprendizaje queremos concienciar a la vez que aprender matemáticas.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmumem5-aapw6p7ma</odePageId>
+      <odeBlockId>block-1779212014373-gj53cy5oy</odeBlockId>
+      <blockName>IDENTIFICACIÓN DE LA SDA</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumem5-aapw6p7ma</odePageId>
+          <odeBlockId>block-1779212014373-gj53cy5oy</odeBlockId>
+          <odeIdeviceId>idevice-1779212014371-m853lq7bx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/SILENCE! HEALTHY LIFE.jpg" title="SILENCE-SUCCESS: LET'S FUNCTIONS BETTER!" width="800" height="2000" alt="IDENTIFICACIÓN DE LA SITUACIÓN DE APRENDIZAJE" />
+<figcaption class="figcaption"><span class="author">Josefa Martínez Moreno</span>. <span class="title"><em>Identificación y justificación de la SdA</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779212014371-m853lq7bx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/SILENCE! HEALTHY LIFE.jpg\" title=\"SILENCE-SUCCESS: LET'S FUNCTIONS BETTER!\" width=\"800\" height=\"2000\" alt=\"IDENTIFICACIÓN DE LA SITUACIÓN DE APRENDIZAJE\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Josefa Martínez Moreno</span>. <span class=\"title\"><em>Identificación y justificación de la SdA</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmumem6-qmj5abfao</odePageId>
+  <odeParentPageId>page-mpmumem3-wvegnn3lz</odeParentPageId>
+  <pageName>CONCRECIÓN CURRICULAR</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONCRECIÓN CURRICULAR</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONCRECIÓN CURRICULAR</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmumem6-qmj5abfao</odePageId>
+      <odeBlockId>block-1779212428805-kmavnxp82</odeBlockId>
+      <blockName>Concreción</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumem6-qmj5abfao</odePageId>
+          <odeBlockId>block-1779212428805-kmavnxp82</odeBlockId>
+          <odeIdeviceId>idevice-1779212428803-r3rnpfu01</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>   </p>
+<table border="1" class="exe-table" style="width: 142.857%; height: 2076px; background-color: #c2e0f4; border-color: #3598db; border-style: solid; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr style="height: 105px;">
+<td style="width: 16.3314%; height: 105px;">TAREA </td>
+<td style="width: 18.2387%; height: 105px;"> CRITERIO DE EVALUACIÓN</td>
+<td style="width: 15.8546%; height: 105px;">
+<pre> AGRUPAMIENTO</pre>
+</td>
+<td style="width: 16.093%; height: 105px;">TIEMPO APROXIMADO</td>
+<td style="width: 17.0466%; height: 105px;"> HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</td>
+<td style="width: 12.636%;">Evidencias</td>
+<td style="width: 3.93384%;">Instrumento de evaluación</td>
+</tr>
+<tr style="height: 897px;">
+<td style="width: 16.3314%; height: 897px;">Diseño del estudio del ruido del centro</td>
+<td style="width: 18.2387%; height: 897px;"> 6.1  Reconocer situaciones en diferentes contextos (personal, escolar, científico, social y humanístico) susceptibles de ser formulados y resueltos mediante herramientas y estrategias matemáticas  estableciendo conexiones entre el mundo real y las matemáticas, usando los procesos inherentes a la investigación científica y matemática: inferir, medir, comunicar, clasificar y predecir y aplicando distintos procedimientos en la resolución de problemas en situaciones diversas.</td>
+<td style="width: 15.8546%; height: 897px;">Grupos de 4 alumnos/as</td>
+<td style="width: 16.093%; height: 897px;">2 sesiones: 1 diseño+1 recogida de datos (aunque recogerán fuera del horario de clase).</td>
+<td style="width: 17.0466%; height: 897px;">
+<p>Trello + google docs compartido dentro de las tarjetas.</p>
+<p>Sonómetro online para la medida.</p>
+</td>
+<td style="width: 12.636%;">
+<p>Tarjetas de Trello</p>
+<p>Documento de Google docs con la tabla de datos</p>
+</td>
+<td style="width: 3.93384%;">
+<p><a href="https://docs.google.com/document/d/1-RywQF7pCifjJsU0bXrmYnlj99QjBEGdyYIrH8ElsEg/edit?usp=sharing" title="">Lista de cotejo</a>. En ella vamos a valorar la organización del equipo, fundamental en cualquier proceso de investigación, la toma de mediciones y la posterior escritura de estas mediciones para preparar la tarea posterior.</p>
+<p>En este punto es importante el compromiso de todos los miembros del equipo, ya que influye decisivamente en el informe que han de presentar.</p>
+<p>La herramienta Trello permite asignar las tareas a cada miembro del grupo, asignar fecha de entrega y pueden usarla como diario de aprendizaje, escribiendo observaciones en cada tarjeta. Además, sirve al profesor/a para dar feedback, ya que puede hacer comentarios al trabajo realizado.</p>
+<p>Se va a utilizar justo al finalizar la segunda sesión, antes de comenzar con la implementación de los datos en geogebra. Puede ser que se retrase el comienzo de la segunda tarea por las dificultades de las mediciones. Podemos, mientras tanto, aprovechar para investigar sobre los perjuicios del ruido en nuestra salud y así tener </p>
+</td>
+</tr>
+<tr style="height: 489px;">
+<td style="width: 16.3314%; height: 489px;">Informe matemático con gráficas</td>
+<td style="width: 18.2387%; height: 489px;">7.2. Elaborar representaciones matemáticas utilizando herramientas de interpretación y modelización, como diagramas,  expresiones simbólicas o gráficas que ayuden a tomar decisiones razonadas en la búsqueda de estrategias de resolución  de una situación problematizada.</td>
+<td style="width: 15.8546%; height: 489px;">Grupos de 4 alumnos/as</td>
+<td style="width: 16.093%; height: 489px;">3 sesiones</td>
+<td style="width: 17.0466%; height: 489px;">
+<p>Geogebra</p>
+<p>Presentación de Google</p>
+</td>
+<td style="width: 12.636%;">
+<p>Presentación de Google</p>
+</td>
+<td style="width: 3.93384%;">
+<p><a href="https://docs.google.com/document/d/1ppWu4PcY0YkfLA83qhW_bePGO1DGAT8Xpxyf7sO-mEc/edit?usp=sharing" title="">Rúbrica analítica</a>. Para evaluar el informe matemático, vamos a utilizar una rúbrica sobre la presentación de google con los resultados obtenidos. Al presentar los resultados, se puede observar el uso que han hecho de geogebra, así como la interpretación de las gráficas presentadas.</p>
+<p>En la exposición de los resultados por grupo, se puede dar el  feedback. Es al finalizar cada exposición cuando ellos mismos pueden ir valorando los desempeños realizados. Para comprobar que todos han trabajado en geogebra, tendrán que participar en las exposición todos ellos.</p>
+</td>
+</tr>
+<tr style="height: 585px;">
+<td style="width: 16.3314%; height: 585px;">Campaña digital de concienciación</td>
+<td style="width: 18.2387%; height: 585px;"> 8.1. Comunicar  ideas, conceptos y procesos seleccionando y utilizando el lenguaje matemático apropiado y empleando diferentes medios, incluidos los digitales, oralmente y por escrito al describir, explicar y justificar razonamientos, procedimientos y conclusiones de forma clara y precisa.</td>
+<td style="width: 15.8546%; height: 585px;">Individual</td>
+<td style="width: 16.093%; height: 585px;">2-3 sesiones, además de las de las demás materias</td>
+<td style="width: 17.0466%; height: 585px;">
+<p>Canva o Genially para cartel o infografía</p>
+<p>Cup Cut para vídeo</p>
+<p>Audacity para podcast</p>
+</td>
+<td style="width: 12.636%;">
+<p>Producto final (uno):</p>
+<p>Cartel o infografía usando Canva o Genially.</p>
+<p>Vídeo usando CapCut</p>
+<p>Podcast usando Audacity</p>
+</td>
+<td style="width: 3.93384%;">
+<p>Para evaluar este criterio, utilizaremos una <a href="https://docs.google.com/document/d/1xGyk1aVwzIAR1k14Psnt15hSFv8MrAxAaZazO7ZqJLk/edit?usp=sharing" title="">rúbrica holística</a>, que me permite evaluarlo independientemente del producto final realizado.</p>
+<p>En la evaluación de este criterio es importante, no sólo la creación del cartel, vídeo…sino también la comunicación de ideas, el lenguaje matemático usado y la justificación de las conclusiones plasmadas.</p>
+<p>Entregarán el producto final y se les devuelve la rúbrica rellena y justificada. En esta ocasión, cada alumno/a debe realizar un producto final, aunque se va a permitir colaboración entre compañeros/as.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779212428803-r3rnpfu01","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>   </p>\n<table border=\"1\" class=\"exe-table\" style=\"width: 142.857%; height: 2076px; background-color: #c2e0f4; border-color: #3598db; border-style: solid; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr style=\"height: 105px;\">\n<td style=\"width: 16.3314%; height: 105px;\">TAREA </td>\n<td style=\"width: 18.2387%; height: 105px;\"> CRITERIO DE EVALUACIÓN</td>\n<td style=\"width: 15.8546%; height: 105px;\">\n<pre> AGRUPAMIENTO</pre>\n</td>\n<td style=\"width: 16.093%; height: 105px;\">TIEMPO APROXIMADO</td>\n<td style=\"width: 17.0466%; height: 105px;\"> HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</td>\n<td style=\"width: 12.636%;\">Evidencias</td>\n<td style=\"width: 3.93384%;\">Instrumento de evaluación</td>\n</tr>\n<tr style=\"height: 897px;\">\n<td style=\"width: 16.3314%; height: 897px;\">Diseño del estudio del ruido del centro</td>\n<td style=\"width: 18.2387%; height: 897px;\"> 6.1  Reconocer situaciones en diferentes contextos (personal, escolar, científico, social y humanístico) susceptibles de ser formulados y resueltos mediante herramientas y estrategias matemáticas  estableciendo conexiones entre el mundo real y las matemáticas, usando los procesos inherentes a la investigación científica y matemática: inferir, medir, comunicar, clasificar y predecir y aplicando distintos procedimientos en la resolución de problemas en situaciones diversas.</td>\n<td style=\"width: 15.8546%; height: 897px;\">Grupos de 4 alumnos/as</td>\n<td style=\"width: 16.093%; height: 897px;\">2 sesiones: 1 diseño+1 recogida de datos (aunque recogerán fuera del horario de clase).</td>\n<td style=\"width: 17.0466%; height: 897px;\">\n<p>Trello + google docs compartido dentro de las tarjetas.</p>\n<p>Sonómetro online para la medida.</p>\n</td>\n<td style=\"width: 12.636%;\">\n<p>Tarjetas de Trello</p>\n<p>Documento de Google docs con la tabla de datos</p>\n</td>\n<td style=\"width: 3.93384%;\">\n<p><a href=\"https://docs.google.com/document/d/1-RywQF7pCifjJsU0bXrmYnlj99QjBEGdyYIrH8ElsEg/edit?usp=sharing\" title=\"\">Lista de cotejo</a>. En ella vamos a valorar la organización del equipo, fundamental en cualquier proceso de investigación, la toma de mediciones y la posterior escritura de estas mediciones para preparar la tarea posterior.</p>\n<p>En este punto es importante el compromiso de todos los miembros del equipo, ya que influye decisivamente en el informe que han de presentar.</p>\n<p>La herramienta Trello permite asignar las tareas a cada miembro del grupo, asignar fecha de entrega y pueden usarla como diario de aprendizaje, escribiendo observaciones en cada tarjeta. Además, sirve al profesor/a para dar feedback, ya que puede hacer comentarios al trabajo realizado.</p>\n<p>Se va a utilizar justo al finalizar la segunda sesión, antes de comenzar con la implementación de los datos en geogebra. Puede ser que se retrase el comienzo de la segunda tarea por las dificultades de las mediciones. Podemos, mientras tanto, aprovechar para investigar sobre los perjuicios del ruido en nuestra salud y así tener </p>\n</td>\n</tr>\n<tr style=\"height: 489px;\">\n<td style=\"width: 16.3314%; height: 489px;\">Informe matemático con gráficas</td>\n<td style=\"width: 18.2387%; height: 489px;\">7.2. Elaborar representaciones matemáticas utilizando herramientas de interpretación y modelización, como diagramas,  expresiones simbólicas o gráficas que ayuden a tomar decisiones razonadas en la búsqueda de estrategias de resolución  de una situación problematizada.</td>\n<td style=\"width: 15.8546%; height: 489px;\">Grupos de 4 alumnos/as</td>\n<td style=\"width: 16.093%; height: 489px;\">3 sesiones</td>\n<td style=\"width: 17.0466%; height: 489px;\">\n<p>Geogebra</p>\n<p>Presentación de Google</p>\n</td>\n<td style=\"width: 12.636%;\">\n<p>Presentación de Google</p>\n</td>\n<td style=\"width: 3.93384%;\">\n<p><a href=\"https://docs.google.com/document/d/1ppWu4PcY0YkfLA83qhW_bePGO1DGAT8Xpxyf7sO-mEc/edit?usp=sharing\" title=\"\">Rúbrica analítica</a>. Para evaluar el informe matemático, vamos a utilizar una rúbrica sobre la presentación de google con los resultados obtenidos. Al presentar los resultados, se puede observar el uso que han hecho de geogebra, así como la interpretación de las gráficas presentadas.</p>\n<p>En la exposición de los resultados por grupo, se puede dar el  feedback. Es al finalizar cada exposición cuando ellos mismos pueden ir valorando los desempeños realizados. Para comprobar que todos han trabajado en geogebra, tendrán que participar en las exposición todos ellos.</p>\n</td>\n</tr>\n<tr style=\"height: 585px;\">\n<td style=\"width: 16.3314%; height: 585px;\">Campaña digital de concienciación</td>\n<td style=\"width: 18.2387%; height: 585px;\"> 8.1. Comunicar  ideas, conceptos y procesos seleccionando y utilizando el lenguaje matemático apropiado y empleando diferentes medios, incluidos los digitales, oralmente y por escrito al describir, explicar y justificar razonamientos, procedimientos y conclusiones de forma clara y precisa.</td>\n<td style=\"width: 15.8546%; height: 585px;\">Individual</td>\n<td style=\"width: 16.093%; height: 585px;\">2-3 sesiones, además de las de las demás materias</td>\n<td style=\"width: 17.0466%; height: 585px;\">\n<p>Canva o Genially para cartel o infografía</p>\n<p>Cup Cut para vídeo</p>\n<p>Audacity para podcast</p>\n</td>\n<td style=\"width: 12.636%;\">\n<p>Producto final (uno):</p>\n<p>Cartel o infografía usando Canva o Genially.</p>\n<p>Vídeo usando CapCut</p>\n<p>Podcast usando Audacity</p>\n</td>\n<td style=\"width: 3.93384%;\">\n<p>Para evaluar este criterio, utilizaremos una <a href=\"https://docs.google.com/document/d/1xGyk1aVwzIAR1k14Psnt15hSFv8MrAxAaZazO7ZqJLk/edit?usp=sharing\" title=\"\">rúbrica holística</a>, que me permite evaluarlo independientemente del producto final realizado.</p>\n<p>En la evaluación de este criterio es importante, no sólo la creación del cartel, vídeo…sino también la comunicación de ideas, el lenguaje matemático usado y la justificación de las conclusiones plasmadas.</p>\n<p>Entregarán el producto final y se les devuelve la rúbrica rellena y justificada. En esta ocasión, cada alumno/a debe realizar un producto final, aunque se va a permitir colaboración entre compañeros/as.</p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmumem7-juwho39ck</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROTECCIÓN DE DATOS PERSONALES Y GARANTÍAS DE DERECHOS DIGITALES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS PERSONALES Y GARANTÍAS DE DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS PERSONALES Y GARANTÍAS DE DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmumem7-juwho39ck</odePageId>
+      <odeBlockId>block-1779213382605-dobde6b57</odeBlockId>
+      <blockName>Derechos de autor y datos personales</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumem7-juwho39ck</odePageId>
+          <odeBlockId>block-1779213382605-dobde6b57</odeBlockId>
+          <odeIdeviceId>idevice-1779213382604-b3r5x5ofe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/informative(1).jpg" title="DERECHOS DE AUTOR Y PROTECCIÓN DE DATOS" width="800" height="2000" alt="No des tus datos personales. No subas a Internet fotos personales o de los demás sin consentimiento. Utiliza para tus trabajos fotos propias o imágenes sin derechos de autor. Comprueba la licencia de lo que utilices." />
+<figcaption class="figcaption"><span class="author">Josefa Martínez Moreno</span>. <span class="title"><em>Derechos de autor y protección de datos</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY NC SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779213382604-b3r5x5ofe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/informative(1).jpg\" title=\"DERECHOS DE AUTOR Y PROTECCIÓN DE DATOS\" width=\"800\" height=\"2000\" alt=\"No des tus datos personales. No subas a Internet fotos personales o de los demás sin consentimiento. Utiliza para tus trabajos fotos propias o imágenes sin derechos de autor. Comprueba la licencia de lo que utilices.\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Josefa Martínez Moreno</span>. <span class=\"title\"><em>Derechos de autor y protección de datos</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY NC SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmumem8-493lp9qgo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESCRIPCIÓN DEL PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmumem8-493lp9qgo</odePageId>
+      <odeBlockId>block-1779114829951-qufb1t606</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumem8-493lp9qgo</odePageId>
+          <odeBlockId>block-1779114829951-qufb1t606</odeBlockId>
+          <odeIdeviceId>idevice-1779114829950-iwjb9t8bi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado deberá contribuir a realizar una campaña digital de concienciación individual.</p>
+<p>Podrán elegir entre tres formatos para favorecer la motivación y expresión (DUA):</p>
+<p><br />- Infografía o cartel (Canva/Genially).</p>
+<p>- Vídeo (CapCut).</p>
+<p>- Podcast (Audacity)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779114829950-iwjb9t8bi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado deberá contribuir a realizar una campaña digital de concienciación individual.</p>\n<p>Podrán elegir entre tres formatos para favorecer la motivación y expresión (DUA):</p>\n<p><br />- Infografía o cartel (Canva/Genially).</p>\n<p>- Vídeo (CapCut).</p>\n<p>- Podcast (Audacity)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmumem8-t3eo2nlan</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DE UN VISTAZO</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DE UN VISTAZO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DE UN VISTAZO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>DE UN VISTAZO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmumem8-t3eo2nlan</odePageId>
+      <odeBlockId>block-1778601789198-ov2ktknid</odeBlockId>
+      <blockName>Herramientas favoritas</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumem8-t3eo2nlan</odePageId>
+          <odeBlockId>block-1778601789198-ov2ktknid</odeBlockId>
+          <odeIdeviceId>idevice-1778601789197-uhloy3i50</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Puedes acudir a esta página siempre que necesites encontrar alguna de las aplicaciones y/o páginas webs para realizar tu tarea:</p>
+<p><br /></p>
+<p><a href="https://www.symbaloo.com/mix/favorite-tools" title=""><img src="{{context_path}}/content/resources/mceclip3.png" /></a></p>
+<p><em>Captura de pantalla Mis herramientas favoritas <a href="https://www.symbaloo.com/home/mix/13eOcWeBGP" title="">(Symbaloo)</a></em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778601789197-uhloy3i50","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Puedes acudir a esta página siempre que necesites encontrar alguna de las aplicaciones y/o páginas webs para realizar tu tarea:</p>\n<p><br /></p>\n<p><a href=\"https://www.symbaloo.com/mix/favorite-tools\" title=\"\"><img src=\"{{context_path}}/content/resources/mceclip3.png\" /></a></p>\n<p><em>Captura de pantalla Mis herramientas favoritas <a href=\"https://www.symbaloo.com/home/mix/13eOcWeBGP\" title=\"\">(Symbaloo)</a></em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmumem8-t3eo2nlan</odePageId>
+      <odeBlockId>block-1779213921620-sgjmg1uz4</odeBlockId>
+      <blockName>Toda la información en un mismo lugar</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumem8-t3eo2nlan</odePageId>
+          <odeBlockId>block-1779213921620-sgjmg1uz4</odeBlockId>
+          <odeIdeviceId>idevice-1779213921619-tpqg6zn49</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta Padlet encontrarás toda la información que necesitarás.</p>
+<p><br /></p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/ddkz23wyri8dklaq" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write"></iframe></p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779213921619-tpqg6zn49","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta Padlet encontrarás toda la información que necesitarás.</p>\n<p><br /></p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/ddkz23wyri8dklaq\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\"></iframe></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmumem8-t3eo2nlan</odePageId>
+      <odeBlockId>block-1779122246110-vt9pdp7ty</odeBlockId>
+      <blockName>Organigrama de actividades</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumem8-t3eo2nlan</odePageId>
+          <odeBlockId>block-1779122246110-vt9pdp7ty</odeBlockId>
+          <odeIdeviceId>idevice-1779122246108-x7bmox9rc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>ORGANIZACIÓN DE LAS ACTIVIDADES</p>
+<p><br /></p>
+<p><a href="https://mm.tt/map/3997963937?t=Jil7MquAVi" title=""><img src="{{context_path}}/content/resources/mceclip0.png" /></a></p>
+<p><em>Captura de pantalla <a href="https://www.mindmeister.com/es" title="">(Mindmeister)</a></em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779122246108-x7bmox9rc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>ORGANIZACIÓN DE LAS ACTIVIDADES</p>\n<p><br /></p>\n<p><a href=\"https://mm.tt/map/3997963937?t=Jil7MquAVi\" title=\"\"><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></a></p>\n<p><em>Captura de pantalla <a href=\"https://www.mindmeister.com/es\" title=\"\">(Mindmeister)</a></em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmumem9-dxlju097t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>TASK 1: Mapping our School’s Noise</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TASK 1: Mapping our School’s Noise</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TAREA 1: DISEÑO DEL ESTUDIO DEL RUIDO EN EL CENTRO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>TASK 1: Mapping our School’s Noise</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmumem9-dxlju097t</odePageId>
+      <odeBlockId>block-1779125969354-3pqq0kgm5</odeBlockId>
+      <blockName>INTRODUCTION</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumem9-dxlju097t</odePageId>
+          <odeBlockId>block-1779125969354-3pqq0kgm5</odeBlockId>
+          <odeIdeviceId>idevice-1779125969353-ymt78qxkq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><iframe width="560" height="314" src="https://www.youtube.com/embed/LAtOi4DVFpc" allowfullscreen="allowfullscreen"></iframe></p>
+<p><em>Vídeo generado con IA</em> (<a href="https://creativecommons.org/licenses/by/4.0/" title="">CC BY 4.0</a>)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779125969353-ymt78qxkq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/LAtOi4DVFpc\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><em>Vídeo generado con IA</em> (<a href=\"https://creativecommons.org/licenses/by/4.0/\" title=\"\">CC BY 4.0</a>)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmumem9-dxlju097t</odePageId>
+      <odeBlockId>block-1779732064248-e0xqsl4wl</odeBlockId>
+      <blockName>After the video</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumem9-dxlju097t</odePageId>
+          <odeBlockId>block-1779732064248-e0xqsl4wl</odeBlockId>
+          <odeIdeviceId>idevice-1779732064248-p50mxj4m2</odeIdeviceId>
+          <odeIdeviceTypeName>trueorfalse</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-trueorfalse-container">
+  
+    <div class="game-evaluation-ids js-hidden" data-id="idevice-1779732064248-p50mxj4m2" data-evaluationb="false" data-evaluationid=""></div>
+        <div class="TOFP-instructions"><p>Responde todas las preguntas del cuestionario.</p></div>
+        <div class="TOFP-MainContainer" data-instance="idevice-1779732064248-p50mxj4m2" id="tofPMainContainer-idevice-1779732064248-p50mxj4m2">
+            <div class="TOFP-GameContainer" id="tofPGameContainer-idevice-1779732064248-p50mxj4m2">
+                <div class="TOFP-GameScoreBoard TOFP-EHidden">
+                    <div class="TOFP-TimeNumber">
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <p id="tofPPTime-idevice-1779732064248-p50mxj4m2" class="TOFP-PTime">00:00:</p>
+                    </div>
+                </div>
+                <div class="TOFP-MessgeDiv" id="tofPMessageDiv-idevice-1779732064248-p50mxj4m2">
+                    <div class="TOFP-Message" id="tofPMessage-idevice-1779732064248-p50mxj4m2"></div>
+                </div>
+                <div class="TOFP-StartGameDiv TOFP-EHidden" id="tofPStartGameDiv-idevice-1779732064248-p50mxj4m2">
+                    <button  id="tofPStartGame-idevice-1779732064248-p50mxj4m2" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="TOFP-Multimedia " id="tofPMultimedia-idevice-1779732064248-p50mxj4m2">
+                </div>
+                <div class="TOFP-CheckTestDiv TOFP-EHidden" id="tofPCheckTestDiv-idevice-1779732064248-p50mxj4m2">
+                    <button id="tofPCheckTest-idevice-1779732064248-p50mxj4m2" type="button" class="btn btn-primary">Comprobar</button>
+                    <button id="tofRebootTest-idevice-1779732064248-p50mxj4m2" type="button" class="btn btn-primary TOFP-EHidden">¡Prueba otra vez!</button>
+                </div>
+        </div> 
+        <div class="Games-BottonContainer">
+            <div class="Games-GetScore">
+                <input id="tofPSendScore-idevice-1779732064248-p50mxj4m2" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+            </div>
+        </div>
+        <div class="TOFP-After"></div>
+        <div class="questionsMedia" style="display:none"></div>
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1779732064248-p50mxj4m2","typeGame":"TrueOrFalse","eXeGameInstructions":"<p>Responde todas las preguntas del cuestionario.</p>","eXeIdeviceTextAfter":"","msgs":{"msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgNoImage":"Pregunta sin imágenes","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Verdadero o falso","msgFeedback":"Retroalimentación","msgSuggestion":"Sugerencia","msgSolution":"Solución","msgQuestion":"Pregunta","msgTrue":"Verdadero","msgFalse":"Falso","msgOk":"Correcto","msgKO":"Incorrecto","msgShow":"Mostrar","msgHide":"Ocultar","msgCheck":"Comprobar","msgReboot":"¡Prueba otra vez!","msgScore":"Puntuación","msgWeight":"Peso","msgNext":"Siguiente","msgPrevious":"Anterior"},"questionsRandom":false,"percentageQuestions":100,"isTest":false,"time":0,"questionsGame":[{"question":"<p>60 Db is the maximum noise limit for school classrooms.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>High noise can produce Blood pressure, intense stress and deep exhaustion.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Noise improve your memory.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Noise damages your ears.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>The noise at school triple health limit.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>The excesive noise produces desrupting clasroom behaviour.</p>","feedback":"","suggestion":"","solution":1}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"","showSlider":false,"ideviceId":"idevice-1779732064248-p50mxj4m2"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmumem9-dxlju097t</odePageId>
+      <odeBlockId>block-1779727760137-hulej4y3e</odeBlockId>
+      <blockName>RESEARCH</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumem9-dxlju097t</odePageId>
+          <odeBlockId>block-1779727760137-hulej4y3e</odeBlockId>
+          <odeIdeviceId>idevice-1779727760136-9h77ibauc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Read the following news to have more information about the noise and the effects in health.</p>
+<p><a href="https://www.abc.es/familia-vida-sana/20131110/abci-aulas-silencio-201310241724.html" title="">EL RUIDO DE LAS AULAS AFECTA AL RENDIMIENTO ESCOLAR</a></p>
+<p><a href="https://www.ehu.eus/acustica/espanol/ruido/efectos%20y%20normativa/efectos%20y%20normativa.html" title="">EFECTOS PSICOLÓGICOS DEL RUIDO</a></p>
+<p><a href="https://www.cigna.com/es-us/knowledge-center/hw/niveles-de-ruido-perjudiciales-tf4173" title="">NIVELES DE RUIDO PERJUDICIALES</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779727760136-9h77ibauc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Read the following news to have more information about the noise and the effects in health.</p>\n<p><a href=\"https://www.abc.es/familia-vida-sana/20131110/abci-aulas-silencio-201310241724.html\" title=\"\">EL RUIDO DE LAS AULAS AFECTA AL RENDIMIENTO ESCOLAR</a></p>\n<p><a href=\"https://www.ehu.eus/acustica/espanol/ruido/efectos%20y%20normativa/efectos%20y%20normativa.html\" title=\"\">EFECTOS PSICOLÓGICOS DEL RUIDO</a></p>\n<p><a href=\"https://www.cigna.com/es-us/knowledge-center/hw/niveles-de-ruido-perjudiciales-tf4173\" title=\"\">NIVELES DE RUIDO PERJUDICIALES</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmumem9-dxlju097t</odePageId>
+      <odeBlockId>block-1779727481041-w38m3jlsf</odeBlockId>
+      <blockName>Activity 1</blockName>
+      <iconName>listen</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumem9-dxlju097t</odePageId>
+          <odeBlockId>block-1779727481041-w38m3jlsf</odeBlockId>
+          <odeIdeviceId>idevice-1779727481040-a1xnmtvpq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>In teams of four, use an online decibel meter to measure noise levels in different areas of the school. Record your data in the shared Google Doc and track your progress on Trello. Choose at least three areas and measure the noise levels at different hours during the day. </p>
+<p><a href="https://sounddecibelmeter.com/es/" title="Sonómetro online">Sonómetro online</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779727481040-a1xnmtvpq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>In teams of four, use an online decibel meter to measure noise levels in different areas of the school. Record your data in the shared Google Doc and track your progress on Trello. Choose at least three areas and measure the noise levels at different hours during the day. </p>\n<p><a href=\"https://sounddecibelmeter.com/es/\" title=\"Sonómetro online\">Sonómetro online</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmumem9-dxlju097t</odePageId>
+      <odeBlockId>block-1779728717574-u9lempxyo</odeBlockId>
+      <blockName>Activity 2</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumem9-dxlju097t</odePageId>
+          <odeBlockId>block-1779728717574-u9lempxyo</odeBlockId>
+          <odeIdeviceId>idevice-1779728717574-x9izfjxhx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Write the results of the noise levels in a table in google docs. Use only one document for the group.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779728717574-x9izfjxhx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Write the results of the noise levels in a table in google docs. Use only one document for the group.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmumemb-xbsdna0fu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>TASK 2: From Data to Graphs</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TASK 2: From Data to Graphs</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TAREA 2: REPRESENTACIÓN Y REALIZACIÓN DEL INFORME.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>TASK 2: From Data to Graphs</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmumemb-xbsdna0fu</odePageId>
+      <odeBlockId>block-1779124684333-ghamkkkng</odeBlockId>
+      <blockName>REPRESENTAMOS LOS DATOS OBTENIDOS</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumemb-xbsdna0fu</odePageId>
+          <odeBlockId>block-1779124684333-ghamkkkng</odeBlockId>
+          <odeIdeviceId>idevice-1779124684331-ljys3gzav</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vamos a utilizar los datos obtenidos en la tarea 1 para crear gráficas y representaciones en <strong>GeoGebra</strong> que muestren los niveles de ruido en las zonas de medición.</p>
+<p>Para ello, visualiza el siguiente vídeo que te explica cómo cambiar los ejes y representar puntos y segmentos.</p>
+<p><a href="https://drive.google.com/file/d/10PjJCPSJgw7QeDDGOEPGLIhVuUcsVD-V/view?usp=sharing" title="">VÍDEO GEOGEBRA</a></p>
+<p style="text-align: center;"><iframe width="560" height="314" src="https://www.youtube.com/embed/jaFxmTg0pxI" allowfullscreen="allowfullscreen"></iframe></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779124684331-ljys3gzav","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vamos a utilizar los datos obtenidos en la tarea 1 para crear gráficas y representaciones en <strong>GeoGebra</strong> que muestren los niveles de ruido en las zonas de medición.</p>\n<p>Para ello, visualiza el siguiente vídeo que te explica cómo cambiar los ejes y representar puntos y segmentos.</p>\n<p><a href=\"https://drive.google.com/file/d/10PjJCPSJgw7QeDDGOEPGLIhVuUcsVD-V/view?usp=sharing\" title=\"\">VÍDEO GEOGEBRA</a></p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/jaFxmTg0pxI\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmumemb-xbsdna0fu</odePageId>
+      <odeBlockId>block-1779210508252-qfvntam30</odeBlockId>
+      <blockName>Activity 3</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumemb-xbsdna0fu</odePageId>
+          <odeBlockId>block-1779210508252-qfvntam30</odeBlockId>
+          <odeIdeviceId>idevice-1779210508251-ksvy5yd39</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Using GeoGebra, create dynamic graphs to represent the noise levels collected. </p>
+<p><a href="https://www.geogebra.org/classic?lang=es" target="_blank" rel="noopener" title="">GEOGEBRA</a></p>
+<p><a href="https://www.geogebra.org/classic?lang=es" title=""><img src="{{context_path}}/content/resources/mceclip0_1.png" /></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779210508251-ksvy5yd39","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Using GeoGebra, create dynamic graphs to represent the noise levels collected. </p>\n<p><a href=\"https://www.geogebra.org/classic?lang=es\" target=\"_blank\" rel=\"noopener\" title=\"\">GEOGEBRA</a></p>\n<p><a href=\"https://www.geogebra.org/classic?lang=es\" title=\"\"><img src=\"{{context_path}}/content/resources/mceclip0_1.png\" /></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmumemb-xbsdna0fu</odePageId>
+      <odeBlockId>block-1779210600844-suisetkvx</odeBlockId>
+      <blockName>Activity 4</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumemb-xbsdna0fu</odePageId>
+          <odeBlockId>block-1779210600844-suisetkvx</odeBlockId>
+          <odeIdeviceId>idevice-1779210600843-gl9nz9lu1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Analyze the results: which areas are the loudest? Write a short report in Google Slides explaining your findings. The report has to have at least three graphs, explaining each graph an describing the place where you have measured, the time, the louder sound and the lower one. Finally, give some tips to turn it down. </p>
+<p style="text-align: justify;">Abre el <a href="https://docs.google.com/presentation/d/1YND-K77et7BbhnMdqKUdSA1C0Rs7QmPmGIwhBuBT_-I/edit?usp=sharing" title="">enlace</a> y copia el documento para comenzar.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779210600843-gl9nz9lu1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Analyze the results: which areas are the loudest? Write a short report in Google Slides explaining your findings. The report has to have at least three graphs, explaining each graph an describing the place where you have measured, the time, the louder sound and the lower one. Finally, give some tips to turn it down. </p>\n<p style=\"text-align: justify;\">Abre el <a href=\"https://docs.google.com/presentation/d/1YND-K77et7BbhnMdqKUdSA1C0Rs7QmPmGIwhBuBT_-I/edit?usp=sharing\" title=\"\">enlace</a> y copia el documento para comenzar.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmumemb-xbsdna0fu</odePageId>
+      <odeBlockId>block-1779211054702-6tt8a0ayi</odeBlockId>
+      <blockName>Assessment</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumemb-xbsdna0fu</odePageId>
+          <odeBlockId>block-1779211054702-6tt8a0ayi</odeBlockId>
+          <odeIdeviceId>idevice-1779211054700-0qivs9i0s</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Aquí tienes la rúbrica que se utilizará para evaluar tu informe.</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1779211054700-0qivs9i0s%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Criterios%201%22%5D%2C%22scores%22%3A%5B%22Nivel%201%20%281-2.9%29%22%2C%22Nivel%202%20%283-4.9%29%22%2C%22Nivel%203%20%285-6.9%29%22%2C%22Nivel%204%20%287-8.9%20%29%22%2C%22Nivel%205%20%289-10%29%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%22%22%2C%22text%22%3A%22No%20elabora%20la%20representaci%F3n%20matem%E1tica%20usando%20geogebra%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Le%20cuesta%20la%20elaboraci%F3n%20de%20las%20representaciones%20matem%E1ticas%20usando%20geogebra.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Comienza%20a%20elaborar%20alguna%20de%20las%20representaciones%20matem%E1ticas%20usando%20geogebra%20que%20le%20ayuden%20en%20la%20b%FAsqueda%20de%20estrategias%20de%20resoluci%F3n%20de%20la%20situaci%F3n%2C%20realizando%20un%20informe%20pobre.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Elabora%20las%20representaciones%20matem%E1ticas%20usando%20geogebra%2C%20que%20ayuden%20en%20la%20b%FAsqueda%20de%20estrategias%20de%20la%20situaci%F3n%20problem%E1tica%20y%20realiza%20un%20informe%20con%20datos%20variados.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Elabora%2C%20de%20manera%20adecuada%2C%20en%20todo%20momento%2C%20las%20representaciones%20matem%E1ticas%20usando%20geogebra%20que%20ayuden%20en%20la%20b%FAsqueda%20de%20resoluci%F3n%20de%20la%20situaci%F3n%20problem%E1tica%20y%20realiza%20un%20informe%20destacable%20con%20datos%20variados%20y%20contextualizando%20bien%20los%20resultados.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Criterios%201%22%5D%2C%22scores%22%3A%5B%22Nivel%201%20%281-2.9%29%22%2C%22Nivel%202%20%283-4.9%29%22%2C%22Nivel%203%20%285-6.9%29%22%2C%22Nivel%204%20%287-8.9%20%29%22%2C%22Nivel%205%20%289-10%29%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%22%22%2C%22text%22%3A%22No%20elabora%20la%20representaci%F3n%20matem%E1tica%20usando%20geogebra%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Le%20cuesta%20la%20elaboraci%F3n%20de%20las%20representaciones%20matem%E1ticas%20usando%20geogebra.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Comienza%20a%20elaborar%20alguna%20de%20las%20representaciones%20matem%E1ticas%20usando%20geogebra%20que%20le%20ayuden%20en%20la%20b%FAsqueda%20de%20estrategias%20de%20resoluci%F3n%20de%20la%20situaci%F3n%2C%20realizando%20un%20informe%20pobre.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Elabora%20las%20representaciones%20matem%E1ticas%20usando%20geogebra%2C%20que%20ayuden%20en%20la%20b%FAsqueda%20de%20estrategias%20de%20la%20situaci%F3n%20problem%E1tica%20y%20realiza%20un%20informe%20con%20datos%20variados.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Elabora%2C%20de%20manera%20adecuada%2C%20en%20todo%20momento%2C%20las%20representaciones%20matem%E1ticas%20usando%20geogebra%20que%20ayuden%20en%20la%20b%FAsqueda%20de%20resoluci%F3n%20de%20la%20situaci%F3n%20problem%E1tica%20y%20realiza%20un%20informe%20destacable%20con%20datos%20variados%20y%20contextualizando%20bien%20los%20resultados.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3EAqu%ED%20tienes%20la%20r%FAbrica%20que%20se%20utilizar%E1%20para%20evaluar%20tu%20informe.%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22author%22%3A%22Josefa%20Mart%EDnez%20Moreno%22%2C%22license%22%3A%22CC-BY-NC-SA%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><p class="exe-rubrics-authorship"><span class="author">Josefa Martínez Moreno</span>. <span class="title"><em>Rúbrica de ejemplo (4x4)</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-NC-SA">CC BY-NC-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3EAqu%ED%20tienes%20la%20r%FAbrica%20que%20se%20utilizar%E1%20para%20evaluar%20tu%20informe.%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmumemc-vsoh2v77d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>TASK 3: Speak Up for Silence! (Producción Final)</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TASK 3: Speak Up for Silence! (Producción Final)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TAREA 3: CREACIÓN DE LA CAMPAÑA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>TASK 3: Speak Up for Silence! (Producción Final)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmumemc-vsoh2v77d</odePageId>
+      <odeBlockId>block-1779215292878-gd715bcj6</odeBlockId>
+      <blockName>Activity 5</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumemc-vsoh2v77d</odePageId>
+          <odeBlockId>block-1779215292878-gd715bcj6</odeBlockId>
+          <odeIdeviceId>idevice-1779215292876-clw61v6u7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Design a digital campaign to raise awareness about noise pollution. Choose your format: a poster, a short video, or a podcast. Remember to use appropriate mathematical language to justify your conclusions.</p>
+<p>- Poster or infographic using Canva or Genially.</p>
+<p>- Video using CupCut.</p>
+<p>- Podcast using Audacity and our radio equipment.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779215292876-clw61v6u7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Design a digital campaign to raise awareness about noise pollution. Choose your format: a poster, a short video, or a podcast. Remember to use appropriate mathematical language to justify your conclusions.</p>\n<p>- Poster or infographic using Canva or Genially.</p>\n<p>- Video using CupCut.</p>\n<p>- Podcast using Audacity and our radio equipment.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmumemc-vsoh2v77d</odePageId>
+      <odeBlockId>block-1779215658880-vwnvtbxh8</odeBlockId>
+      <blockName>Assessment</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumemc-vsoh2v77d</odePageId>
+          <odeBlockId>block-1779215658880-vwnvtbxh8</odeBlockId>
+          <odeIdeviceId>idevice-1779215658876-jplut9ngr</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1779215658876-jplut9ngr%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Comunicaci%F3n%20de%20ideas%20y%20mensaje%20%22%2C%22Uso%20del%20lenguaje%20matem%E1tico%22%2C%22Justificaci%F3n%20de%20conclusiones%22%2C%22Creatividad%20e%20impacto%20visual/oral%22%5D%2C%22scores%22%3A%5B%224%20-%20Excelente%22%2C%223%20-%20Adecuado%22%2C%222%20-%20B%E1sico%22%2C%221%20-%20Poco%20conseguido%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22El%20mensaje%20es%20muy%20claro%2C%20coherente%20y%20f%E1cil%20de%20comprender.%20No%20hay%20errores%20sint%E1cticos%20ni%20ortogr%E1ficos.%20Transmite%20de%20forma%20convincente%20la%20necesidad%20de%20reducir%20el%20ruido.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22El%20mensaje%20se%20entiende%20bien%20y%20mantiene%20coherencia%20y%20no%20hay%20errores%20sint%E1cticos/ortogr%E1ficos.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22El%20mensaje%20presenta%20algunas%20partes%20confusas%20o%20poco%20organizadas%20o/y%20hay%20algunos%20errores%20sint%E1cticos/ortogr%E1ficos.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22%20El%20mensaje%20es%20dif%EDcil%20de%20entender%20o%20carece%20de%20coherencia%20y/o%20hay%20errores%20sint%E1cticos%20y%20ortogr%E1ficos.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Utiliza%20correctamente%20vocabulario%20matem%E1tico%20y%20datos%20del%20estudio%20%28mediciones%2C%20niveles%20de%20ruido%2C%20comparaciones%2C%20tablas%2C%20medias%2C%20etc.%29%20de%20forma%20precisa.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Usa%20vocabulario%20matem%E1tico%20adecuado%20con%20peque%F1os%20errores%20o%20imprecisiones.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Utiliza%20poco%20lenguaje%20matem%E1tico%20o%20de%20manera%20limitada.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Apenas%20utiliza%20lenguaje%20matem%E1tico%20o%20lo%20usa%20incorrectamente.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22%20Las%20conclusiones%20est%E1n%20claramente%20explicadas%20y%20justificadas%20mediante%20los%20datos%20obtenidos%20en%20el%20estudio%20del%20ruido.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22%20Las%20conclusiones%20est%E1n%20relacionadas%20con%20los%20datos%20recogidos.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Las%20conclusiones%20aparecen%20poco%20justificadas%20o%20incompletas.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22No%20justifica%20las%20conclusiones%20o%20no%20se%20relacionan%20con%20los%20datos.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22%20El%20producto%20es%20muy%20creativo%2C%20atractivo%20y%20consigue%20captar%20la%20atenci%F3n%20del%20p%FAblico.%20Favorece%20la%20concienciaci%F3n%20sobre%20el%20ruido.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22El%20producto%20resulta%20atractivo%20e%20interesante.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22El%20producto%20tiene%20poca%20creatividad%20o%20escaso%20impacto.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22El%20producto%20resulta%20poco%20atractivo%20o%20no%20llama%20la%20atenci%F3n.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Comunicaci%F3n%20de%20ideas%20y%20mensaje%20%22%2C%22Uso%20del%20lenguaje%20matem%E1tico%22%2C%22Justificaci%F3n%20de%20conclusiones%22%2C%22Creatividad%20e%20impacto%20visual/oral%22%5D%2C%22scores%22%3A%5B%224%20-%20Excelente%22%2C%223%20-%20Adecuado%22%2C%222%20-%20B%E1sico%22%2C%221%20-%20Poco%20conseguido%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22El%20mensaje%20es%20muy%20claro%2C%20coherente%20y%20f%E1cil%20de%20comprender.%20No%20hay%20errores%20sint%E1cticos%20ni%20ortogr%E1ficos.%20Transmite%20de%20forma%20convincente%20la%20necesidad%20de%20reducir%20el%20ruido.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22El%20mensaje%20se%20entiende%20bien%20y%20mantiene%20coherencia%20y%20no%20hay%20errores%20sint%E1cticos/ortogr%E1ficos.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22El%20mensaje%20presenta%20algunas%20partes%20confusas%20o%20poco%20organizadas%20o/y%20hay%20algunos%20errores%20sint%E1cticos/ortogr%E1ficos.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22%20El%20mensaje%20es%20dif%EDcil%20de%20entender%20o%20carece%20de%20coherencia%20y/o%20hay%20errores%20sint%E1cticos%20y%20ortogr%E1ficos.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Utiliza%20correctamente%20vocabulario%20matem%E1tico%20y%20datos%20del%20estudio%20%28mediciones%2C%20niveles%20de%20ruido%2C%20comparaciones%2C%20tablas%2C%20medias%2C%20etc.%29%20de%20forma%20precisa.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Usa%20vocabulario%20matem%E1tico%20adecuado%20con%20peque%F1os%20errores%20o%20imprecisiones.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Utiliza%20poco%20lenguaje%20matem%E1tico%20o%20de%20manera%20limitada.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Apenas%20utiliza%20lenguaje%20matem%E1tico%20o%20lo%20usa%20incorrectamente.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22%20Las%20conclusiones%20est%E1n%20claramente%20explicadas%20y%20justificadas%20mediante%20los%20datos%20obtenidos%20en%20el%20estudio%20del%20ruido.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22%20Las%20conclusiones%20est%E1n%20relacionadas%20con%20los%20datos%20recogidos.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Las%20conclusiones%20aparecen%20poco%20justificadas%20o%20incompletas.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22No%20justifica%20las%20conclusiones%20o%20no%20se%20relacionan%20con%20los%20datos.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22%20El%20producto%20es%20muy%20creativo%2C%20atractivo%20y%20consigue%20captar%20la%20atenci%F3n%20del%20p%FAblico.%20Favorece%20la%20concienciaci%F3n%20sobre%20el%20ruido.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22El%20producto%20resulta%20atractivo%20e%20interesante.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22El%20producto%20tiene%20poca%20creatividad%20o%20escaso%20impacto.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22El%20producto%20resulta%20poco%20atractivo%20o%20no%20llama%20la%20atenci%F3n.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmumemd-bamsb8z92</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>TASK 4:  Presenting our Findings</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TASK 4:  Presenting our Findings</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TAREA 4: COMUNICACIÓN DE RESULTADOS Y EVALUACIÓN.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>TASK 4:  Presenting our Findings</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmumemd-bamsb8z92</odePageId>
+      <odeBlockId>block-1779730013838-8u9sojb62</odeBlockId>
+      <blockName>Activity 6</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumemd-bamsb8z92</odePageId>
+          <odeBlockId>block-1779730013838-8u9sojb62</odeBlockId>
+          <odeIdeviceId>idevice-1779730013835-ddifj7auu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Insert your presentation on Padlet. We are going to present to the classroom our conclusions. Using the rubric on task 3, we use peer assessment.</p>
+<p><a href="https://padlet.com/jmarmor211/silence-success-let-s-function-better-ddkz23wyri8dklaq" title=""><img src="{{context_path}}/content/resources/mceclip0_2.png" /></a></p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><a href="https://padlet.com/jmarmor211/silence-success-let-s-function-better-ddkz23wyri8dklaq" title="">TABLERO DE PADLET</a></p>
+<p style="padding: 0; margin: 0;"><br /></p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779730013835-ddifj7auu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Insert your presentation on Padlet. We are going to present to the classroom our conclusions. Using the rubric on task 3, we use peer assessment.</p>\n<p><a href=\"https://padlet.com/jmarmor211/silence-success-let-s-function-better-ddkz23wyri8dklaq\" title=\"\"><img src=\"{{context_path}}/content/resources/mceclip0_2.png\" /></a></p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><a href=\"https://padlet.com/jmarmor211/silence-success-let-s-function-better-ddkz23wyri8dklaq\" title=\"\">TABLERO DE PADLET</a></p>\n<p style=\"padding: 0; margin: 0;\"><br /></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmumeme-ya9pgnokt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmumeme-ya9pgnokt</odePageId>
+      <odeBlockId>block-1779733300116-zqrudkn3i</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumeme-ya9pgnokt</odePageId>
+          <odeBlockId>block-1779733300116-zqrudkn3i</odeBlockId>
+          <odeIdeviceId>idevice-1779733300115-3cu4owyle</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>AUTORA:</strong> JOSEFA DE LA LUZ MARTÍNEZ MORENO</p>
+<p>En esta situación de aprendizaje el alumno/a va a crear una campaña de concienciación para disminuir el ruido en el instituto. Esto es un objetivo primordial, tanto en el plan de centro como en nuestros Planes y Programas. </p>
+<p>Este recurso está bajo la licencia <em>Creative Commons-Reconocimiento- no comercial-compartir igual 4.0</em></p>
+<p><br /></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779733300115-3cu4owyle","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>AUTORA:</strong> JOSEFA DE LA LUZ MARTÍNEZ MORENO</p>\n<p>En esta situación de aprendizaje el alumno/a va a crear una campaña de concienciación para disminuir el ruido en el instituto. Esto es un objetivo primordial, tanto en el plan de centro como en nuestros Planes y Programas. </p>\n<p>Este recurso está bajo la licencia <em>Creative Commons-Reconocimiento- no comercial-compartir igual 4.0</em></p>\n<p><br /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmumeme-ya9pgnokt</odePageId>
+      <odeBlockId>block-1779733973083-zrng15mh6</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmumeme-ya9pgnokt</odePageId>
+          <odeBlockId>block-1779733973083-zrng15mh6</odeBlockId>
+          <odeIdeviceId>idevice-1779733973082-5h4nu0nru</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SILENCE-SUCCESS: LET'S FUNCTION BETTER!</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Vamos a estudiar y medir el ruido del instituto y crear una campaña para reducirlo.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Josefa de la Luz Martínez Moreno</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non commercial - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
